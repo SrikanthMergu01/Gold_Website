@@ -1,4 +1,7 @@
 ![image](https://github.com/user-attachments/assets/7cfe5f0c-7a24-46a1-8d1d-eec474b99cbd)
+
+![image](https://github.com/user-attachments/assets/5bf8bfb8-8552-4762-bdc1-94a37d6b51f4)
+
 # **Demo Repo for Practising 20Days DevOps to GitOps Series**
 
 You can use the videos and blogs mentioned here to practice and gain confidence in DevOps.
